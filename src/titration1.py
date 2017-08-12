@@ -1,12 +1,13 @@
 # @Author: fishnsotong
 # @Date:   2017-08-10T11:35:49+08:00
-# @Last modified by:   fishnsotong
-# @Last modified time: 2017-08-10T13:02:09+08:00
+# @last modified by:   fishnsotong
+# @last modified time: 2017-08-11T00:47:35+08:00
 
 
 
 import numpy as np
 import matplotlib.pyplot as plt
+import datetime as dt
 
 # importing data from csv file
 volume_total, pH = np.loadtxt("../data/titration1.csv", unpack=True,
@@ -25,7 +26,8 @@ plt.title("Titration of 0.05 M phosphoric acid into DDAOH")
 plt.yticks([7, 8, 9, 10, 11, 12, 13, 14])
 
 # save plot to file
-#plt.savefig("titration1.png")
+now = str(dt.datetime.today())
+plt.savefig("../figs/titration1"+ now +".png")
 
 # display plot on screen
 plt.show()

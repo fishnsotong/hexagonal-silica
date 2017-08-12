@@ -2,7 +2,7 @@
 # @date:   2017-08-10T12:53:16+08:00
 # @email:  wayne.yeo.wei.zhong.2017@vjc.sg
 # @last modified by:   fishnsotong
-# @last modified time: 2017-08-11T00:29:55+08:00
+# @last modified time: 2017-08-11T00:50:00+08:00
 
 
 
@@ -45,7 +45,7 @@ f_hpo4_data = Ka1 * Ka2 * conc_hydronium_data / H_data
 f_po4_data = Ka1 * Ka2 * Ka3 / H_data
 
 # plotting
-plt.figure(figsize=(15, 8))
+plt.figure(figsize=(15, 9.5))
 plt.subplot(211)
 plt.plot(pH, f_h3po4, "r-", label=r"$\mathregular{H_3PO_4}$")
 plt.plot(pH, f_h2po4, "b-", label=r"$\mathregular{H_2PO_4^{-}}$")
@@ -80,6 +80,7 @@ plt.xticks([0, 7, 14])
 plt.yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
 plt.text(5, .65, r'$\mathregular{H_2PO_4^{-}=0.6063}$')
 plt.text(5, .35, r'$\mathregular{HPO_4^{2-}=0.3936}$')
+
 # save plot to file
 now = str(dt.datetime.today())
 plt.savefig("../figs/phosfraction"+ now +".png")
