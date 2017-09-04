@@ -1,7 +1,7 @@
 # @Author: fishnsotong
 # @Date:   2017-08-10T11:35:49+08:00
 # @last modified by:   fishnsotong
-# @last modified time: 2017-08-16T19:55:17+08:00
+# @last modified time: 2017-08-17T01:54:34+08:00
 
 
 
@@ -23,7 +23,7 @@ conc_base = 1
 volume_base = 30
 
 # define fitting functions
-def titrationVolume(conc_acid, conc_base, conc_h, conc_oh, ka):
+def titrationVolume(conc_acid, conc_base, conc_h, conc_oh, ka, volume_base):
     """ volume of sa needed when titrating a strong acid into a weak base"""
     delta = conc_h - conc_oh
     alpha = ka / (conc_h + ka)
@@ -31,15 +31,16 @@ def titrationVolume(conc_acid, conc_base, conc_h, conc_oh, ka):
     return volume
 
 # fit data using SciPy's Levenburg-Marquart method
-conc_base0 = (0.1, 10, 0.2, 5) # initial guess for fitting parameter
-conc_base, nlcov = scipy.optimize.curve_fit(titrationVolume, conc_h, conc_oh, conc_base0, sigma=None)
+conc_base0 = (conc_acid, conc_base, conc_h, conc_oh, ka, volume_base) # initial guess for fitting parameter
+conc_base, nlcov = scipy.optimize.curve_fit(titrationVolume, conc_h, volume_total, conc_base0, sigma=None)
 # name of the function, data, data, whether you have error bars, sigma=None
 # conc_base0 is the (best) fit parameter from scipy.optimize.curve_fit
 
 # b_stddev is the standard deviation of the fit parameter
 b_stddev = np.sqrt( nlcov[0][0] )
 
-volume_theory = titrationVolume(conc_acid, conc_base, conc_h, conc_oh, ka)
+# create array using fitting function
+volume_theory = titrationVolume(conc_acid, conc_base, conc_h, conc_oh, ka, volume_base)
 
 # plotting
 plt.plot(volume_total, pH, "bo", label="0.05 M phosphoric acid titration")
