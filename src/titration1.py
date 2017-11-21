@@ -1,7 +1,7 @@
 # @Author: fishnsotong
 # @Date:   2017-08-10T11:35:49+08:00
-# @last modified by:   fishnsotong
-# @last modified time: 2017-08-17T01:54:34+08:00
+# @Last modified by:   fishnsotong
+# @Last modified time: 2017-11-22T00:34:50+08:00
 
 
 
@@ -11,7 +11,7 @@ import scipy.optimize
 import datetime as dt
 
 # importing data from csv file
-volume_total, pH = np.loadtxt("../data/titration1.csv", unpack=True,
+volume_total, pH = np.loadtxt("../data/titration2.csv", unpack=True,
 delimiter=",", skiprows=1, dtype=float)
 
 # set global parameters
@@ -52,11 +52,11 @@ plt.legend(loc='best', prop={'size': 10})
 plt.xlabel("Volume of phosphoric acid (mL)")
 plt.ylabel("pH")
 plt.title("Titration of 0.05 M phosphoric acid into DDAOH")
-plt.yticks([7, 8, 9, 10, 11, 12, 13, 14])
+plt.yticks([0,1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14])
 
 # save plot to file
 now = str(dt.datetime.today())
-plt.savefig("../figs/titration1"+ now +".png")
+plt.savefig("../figs/titration2"+ now +".png")
 
 # display plot on screen
 # plt.show()
