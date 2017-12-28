@@ -1,8 +1,8 @@
 # @author: Wayne Yeo <fishnsotong>
 # @date:   2017-08-10T12:53:16+08:00
 # @email:  wayne.yeo.wei.zhong.2017@vjc.sg
-# @last modified by:   fishnsotong
-# @last modified time: 2017-08-11T00:50:00+08:00
+# @Last modified by:   fishnsotong
+# @Last modified time: 2017-12-23T21:32:33+08:00
 
 
 
@@ -83,7 +83,7 @@ plt.text(5, .35, r'$\mathregular{HPO_4^{2-}=0.3936}$')
 
 # save plot to file
 now = str(dt.datetime.today())
-plt.savefig("../figs/phosfraction"+ now +".png")
+plt.savefig("../figs/phosfraction"+ now +".png", dpi = 500)
 
 # display plot on screen
 plt.show()
