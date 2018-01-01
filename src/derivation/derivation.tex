@@ -17,11 +17,11 @@
 
 \section*{Supplementary Information}
 
-    \begin{thm}The expression of the fractional composition of various counterions as a function of hydronium ion concentration.
+    \begin{thm}The expression of the fractional composition of various phosphate counteranions at different hydrolysis states as a function of hydronium ion concentration.
     \end{thm}
 
 
-	\begin{proof} First, we consider the acidity dissociation $K_a$ values of each successive deprotonation of \ce{H_3PO_4}.
+	\begin{proof} First, we consider the equilibrium expressions for the acidity dissociation constant $K_a$ values of each successive deprotonation of \ce{H_3PO_4}.
 
 		\begin{equation*}
  		\ce{H3PO4(aq) + H2O(l) <=> H3O+(aq) + H2PO4^-(aq)}
@@ -45,7 +45,7 @@
  		& = & \ce{[H3PO4] + [H2PO4^-] + [HPO4^{2-}] + [PO4^{3-}]} \nonumber
  		\end{eqnarray}
 
- 	We then manipulate the $K_a$ expressions such that all species concentrations can be expressed in terms of \ce{[H_3PO_4]} and \ce{[H3O+]}, along with the three acidity constants.
+ 	We then manipulate the $K_a$ expressions such the concentrations of all species present can be expressed in terms of \ce{[H_3PO_4]} and \ce{[H3O+]}, along with the three acidity constants.
 
  	\begin{eqnarray}
  		\ce{[H2PO4^{-}]} & = & \frac{K_{a1}\ce{[H3PO4]}}{\ce{[H3O+]}} \nonumber \\
@@ -53,7 +53,7 @@
  		\ce{[PO4^{3-}]} & = & \frac{K_{a1}K_{a2}K_{a3}\ce{[H3PO4]}}{\ce{[H3O+]}} \nonumber
  		\end{eqnarray}
 
- 	The above results are then substituted into the expression for $P$.
+ 	The above results are then substituted into the expression for $P$, followed by factoring out the common \ce{[H_3PO_4]} term.
 
  	\begin{eqnarray}
  		P & = & \ce{[H_3PO_4]} + \frac{K_{a1}\ce{[H3PO4]}}{\ce{[H3O+]}} + \frac{K_{a1}K_{a2}\ce{[H3PO4]}}{\ce{[H3O+]}} + \frac{K_{a1}K_{a2}K_{a3}\ce{[H3PO4]}}{\ce{[H3O+]}}  \nonumber \\
@@ -62,7 +62,7 @@
  		\end{eqnarray}
 
 
- 	Factoring out the $\frac{1}{\ce{[H3O+]^3}}$ term will make manipulation easier, as we will see in the next steps. Now we express each species fraction as a dissociation degree, as a function of $\ce{[H3O+]}$.
+	Factoring out the $\frac{1}{\ce{[H3O+]^3}}$ term will make manipulation easier, as we will see in the next steps. Now we express each species fraction as a dissociation degree, as a function of $\ce{[H3O+]}$.
 
  	\begin{eqnarray}
  		\alpha_{\ce{H3PO4}} & = & \frac{\ce{[H3PO4]}}{P} \hspace{-10cm} \nonumber \\
@@ -90,8 +90,8 @@
  		& = & \frac{K_{a1}K_{a2}K_{a3}\ce{[H3PO4]}}{\frac{1}{\ce{[H3O+]^3}} \{ \ce{[H3O+]^3} + \ce{[H3O+]^2}K_{a1} + \ce{[H3O+]}K_{a1}K_{a2} + K_{a1}K_{a2}K_{a3}\}\ce{[H3PO4][H3O+]^3}} \nonumber \\
  		& = & \frac{K_{a1}K_{a2}K_{a3}}{\ce{[H3O+]^3} + \ce{[H3O+]^2}K_{a1} + \ce{[H3O+]}K_{a1}K_{a2} + K_{a1}K_{a2}K_{a3}}
  		\end{eqnarray}
-
-
+	\\[2\baselineskip]
+	The above fractions are then plotted against pH in Fig. 3.
 
  	%$begin{equation*}
  	%	H =  \ce{[H3O+]^3} + \ce{[H3O+]^2}K_{a1} + \ce{[H3O+]}K_{a1}K_{a2} + K_{a1}K_{a2}K_{a3}
