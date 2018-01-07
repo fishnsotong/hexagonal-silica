@@ -1,0 +1,18 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'paper.blg'
+[58] biber-darwin:290> INFO - === Sun Jan  7, 2018, 22:12:46
+[82] Biber.pm:351> INFO - Reading 'paper.bcf'
+[193] Biber.pm:776> INFO - Found 27 citekeys in bib section 0
+[206] Biber.pm:3493> INFO - Processing section 0
+[226] Biber.pm:3657> INFO - Looking for bibtex format file 'hexsi.bib' for section 0
+[229] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[233] bibtex.pm:1048> INFO - Found BibTeX data source 'hexsi.bib'
+[312] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[312] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[312] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
+[312] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[331] bbl.pm:526> INFO - Writing 'paper.bbl' with encoding 'ascii'
+[335] Utils.pm:149> WARN - The entry 'stober1968' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[341] Utils.pm:149> WARN - The entry 'colfen2007' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[342] bbl.pm:619> INFO - Output to paper.bbl
+[343] Biber.pm:108> INFO - WARNINGS: 2

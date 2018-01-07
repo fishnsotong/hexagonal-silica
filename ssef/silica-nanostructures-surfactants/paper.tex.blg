@@ -1,0 +1,5 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'paper.tex.blg'
+[66] biber-darwin:290> INFO - === Sun Jan  7, 2018, 18:57:02
+[203] Utils.pm:165> ERROR - Cannot find control file 'paper.tex.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[204] Biber.pm:112> INFO - ERRORS: 1
