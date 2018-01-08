@@ -6,6 +6,12 @@
 \usepackage{xcolor}
 \usepackage{titlesec}
 
+\usepackage[
+    backend=biber,
+    style=chem-acs,
+  ]{biblatex}
+\addbibresource{plan.bib}
+
 %\titleformat{\section}[block]{\color{black}\Large\bfseries\filcenter}{}{1em}{}
 \date{}
 \author{Wayne Yeo Wei Zhong} % sets date blank and lists author as 
@@ -20,16 +26,30 @@
 	\maketitle
 	
 	\section*{Rationale}
-	Silica nanomaterials have found use in biomedical applications due to their biocompatibility and non-toxicity. These utilizations are made possible largely due to the wide range of structures made available through templated approaches to its sol-gel synthesis. Templated synthesis enables us to direct the formation of silica nanostructures into forms that are otherwise difficult to obtain, allowing the exertion of a fine degree of synthetic control over the morphology, dimensions and architecture of the nanostructures. In previous work, single-tailed surfactants have been used as soft templates to produce mesoporous silica materials. This study investigates the use of double-tailed didodecyldimethylammonium (\ce{DDA^+}) phosphate surfactants as a structure-directing agent for the soft template sol-gel synthesis of silica at ambient conditions in aqueous solution. The effects of varying accessible reaction parameters such as surfactant concentration and solution temperature on resulting silica morphology was characterised. In this research, we have demonstrated that varying these reaction conditions will indeed have an impact on the templating behaviour of the surfactant, resulting in morphological transitions from nanobeads to polygonal plates and toroidal concave particles with an increase in surfactant concentration, as well as a gradual loss in templating ability with an increase in solution temperature. This allows us to access different morphologies and dimensions of nanostructures within the same synthesis scheme in a robust and flexible fashion. Future studies to establish new dimensions of control over silica nanostructure can be initiated by varying the solution pH and doping small quantities of electrolyte into solution.
+	Silica as a material has found increasing use in nanomedicine in recent decades. It has been employed in numerous biomedical applications from drug delivery \cite{slowing2008} to imaging \cite{ow2005}. This suitability is largely attributed to the intrinsic biodegradability and biocompatibility it possesses \cite{popplewell1998}. In recent years, there has been intense research in the sol-gel synthesis \cite{stober1968,yang2008,pohaku2012} and templating of silica nanostructures \cite{kresge1992,tomczak2005,bellomo2006,liu2013}, for use in novel applications. Of particular interest is the use of surfactant systems as a soft template in silica synthesis \cite{kresge1992,colfen2007} , unlocking non-traditional morphologies with novel applications that are unachievable through conventional hard templating routes. Surfactant systems have shown potential as a flexible templating agent due to the rich variety of available microstructures formed through the variation of geometrical constraints \cite{israelachvili1976} and electrostatic interactions due to different counterions \cite{kang1993} which can also be influenced by the addition of salts and other electrolytes \cite{thalberg1991}.
 	
-	\section*{Research Problem}	 
+	\section*{Research Problem}
+	So far, double tailed surfactants such as didodecyldimethylammonium (\ce{DDA+}) systems, which have been extensively studied in the literature \cite{warr1988,liu2014}, remain largely underexploited as a soft templating agent for silica synthesis. In addition, a robust and flexible fabrication approach that allows for the synthesis of a wide variety of silica nanostructures, over the variation of a broad range of reaction conditions has yet to be developed. This research aims to study the effects on morphology of silica nanostructures templated by \ce{DDA+} phosphate (\ce{DDAH_2PO_4}) surfactant when varying easily accessible reaction conditions \textit{in situ} such as surfactant concentration and reaction temperature.	 
 	
-	\section*{Objective}
+	\section*{Hypothesis}
+	In this project, I shall study the effect of systematically modifying surfactant concentration and reaction temperature on the sol-gel synthesis of silica templated by \ce{DDAH_2PO_4}. The hypothesis is that we will observe consistent changes of morphological features in the nanostructured silica. We posit the variation in morphology can be attributed to changes in the surfactant system.
 	
 	\section*{Experimental Section}
+	I shall prepare the surfactant templating agent for use in this study through a procedure involving an ion-exchange and a titration. I shall design a suitable matrix of experimental conditions where homogeneity of the templating solution can be expected. Then, I shall synthesise silica using a sol-gel process at ambient conditions along the matrix of conditions. Lastly, I shall obtain SEM images of the nanostructures from a licensed operator, and obtain qualitative relations between the changes in experimental conditions and variations in morphology.
+	
+	\section*{Risk Assessment}
+	The procedures to be carried out take place under aqueous, ambient conditions, and are comparatively safe. Personal protective equipment including a lab coat, safety goggles and gloves will be worn during work. All reactions and dilutions should only be carried out within a fume hood. Equipment such as hotplates, rotary evaporators and dewar flasks of liquid nitrogen will be handled with care. Locations of the emergency shower, eyewash and fire extinguisher within the laboratory will be duly noted.
+	\bigbreak
+Chemicals which are irritants, toxic or corrosive will be handled with care. The disposal of chemical waste though separation into organic (non-halogenated/halogenated) and hazardous inorganic aqueous waste at the building will be strictly adhered to.
 	
 	\section*{Expected Outcomes}
+	It is expected that the silica nanostructures will have varying morphological features, along consistent trends following the systematic variation of reaction conditions along the concentration and temperature axes. The SEM images confirm the validity of this claim with mechanistic explanations of similar systems in the literature, thereby confirming our hypothesis.
 	
 	\section*{Applications}
+	 This project will provide a convenient way of achieving different morphologies of nanosilica under the same synthesis procedure. In particular, it highlights the potential for different dimensions of morphological control through tuning different reaction parameters within the same soft template. We propose that the project can be extended even further in due time through the exploration of different relevant parameters such as solution pH and the doping of electrolytes into the templating solution.
+	 \bigbreak
+The fabrication approach we present here is general, and we believe that it can be extended to other materials. In addition, the functionalization, toxicity and quantification of the immune response of the platform will require further study before consideration for \textit{in vivo} medical applications.
+
+	\printbibliography
 	 
 	\end{document}

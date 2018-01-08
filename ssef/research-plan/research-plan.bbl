@@ -1,0 +1,669 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{none/global/}
+    \entry{slowing2008}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f7aaf93d917350b94fa5d603c0ff6ec9}{%
+           family={Slowing},
+           family_i={S\bibinitperiod},
+           given={Igor\bibnamedelima I},
+           given_i={I\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=edd44595eb545a355398dc44abe2d75a}{%
+           family={Vivero-Escoto},
+           family_i={V\bibinithyphendelim E\bibinitperiod},
+           given={Juan\bibnamedelima L},
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c342356871baea393675ed0c549ec2ac}{%
+           family={Wu},
+           family_i={W\bibinitperiod},
+           given={Chia-Wen},
+           given_i={C\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=bfa9b35dd3bab9159127dca8eea15925}{%
+           family={Lin},
+           family_i={L\bibinitperiod},
+           given={Victor\bibnamedelima S-Y},
+           given_i={V\bibinitperiod\bibinitdelim S\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{cd1af1e556f2c3669fe850813c49c86b}
+      \strng{fullhash}{a0cfea611782b7937d0dbd029c090e8c}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced drug delivery reviews}
+      \field{number}{11}
+      \field{title}{Mesoporous silica nanoparticles as controlled release drug delivery and gene transfection carriers}
+      \field{volume}{60}
+      \field{year}{2008}
+      \field{pages}{1278\bibrangedash 1288}
+      \range{pages}{11}
+    \endentry
+    \entry{ow2005}{article}{}
+      \name{author}{6}{}{%
+        {{hash=fbe9605a210d9706e170757cab96545c}{%
+           family={Ow},
+           family_i={O\bibinitperiod},
+           given={Hooisweng},
+           given_i={H\bibinitperiod}}}%
+        {{hash=95977060c94926d134f42a7a93e8e56c}{%
+           family={Larson},
+           family_i={L\bibinitperiod},
+           given={Daniel\bibnamedelima R},
+           given_i={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=661884de2a944dc170eb312b3153c4d2}{%
+           family={Srivastava},
+           family_i={S\bibinitperiod},
+           given={Mamta},
+           given_i={M\bibinitperiod}}}%
+        {{hash=ef2aa5d5720fb46de8f30f57f425bec8}{%
+           family={Baird},
+           family_i={B\bibinitperiod},
+           given={Barbara\bibnamedelima A},
+           given_i={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8136f562b4fa42cc207fe242e28b59fc}{%
+           family={Webb},
+           family_i={W\bibinitperiod},
+           given={Watt\bibnamedelima W},
+           given_i={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=4be4353e1dbabe815182777afb4b8823}{%
+           family={Wiesner},
+           family_i={W\bibinitperiod},
+           given={Ulrich},
+           given_i={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{fa779eaaac110cba98e4ce58629cb02a}
+      \strng{fullhash}{b404e6cb65f40108f3484cb2793b5f80}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nano letters}
+      \field{number}{1}
+      \field{title}{Bright and stable core- shell fluorescent silica nanoparticles}
+      \field{volume}{5}
+      \field{year}{2005}
+      \field{pages}{113\bibrangedash 117}
+      \range{pages}{5}
+    \endentry
+    \entry{popplewell1998}{article}{}
+      \name{author}{8}{}{%
+        {{hash=e260d5526edb3cc64ebd80a0a75c60dd}{%
+           family={Popplewell},
+           family_i={P\bibinitperiod},
+           given={JF},
+           given_i={J\bibinitperiod}}}%
+        {{hash=4f158959bc18861eeaf7ce6abfe013a7}{%
+           family={King},
+           family_i={K\bibinitperiod},
+           given={SJ},
+           given_i={S\bibinitperiod}}}%
+        {{hash=c6ce139d1619765d35b92f4c591c9e2f}{%
+           family={Day},
+           family_i={D\bibinitperiod},
+           given={JP},
+           given_i={J\bibinitperiod}}}%
+        {{hash=4639b0871a2719a9853571468604fd24}{%
+           family={Ackrill},
+           family_i={A\bibinitperiod},
+           given={P},
+           given_i={P\bibinitperiod}}}%
+        {{hash=751512810daa46281241f38beaee7ec8}{%
+           family={Fifield},
+           family_i={F\bibinitperiod},
+           given={LK},
+           given_i={L\bibinitperiod}}}%
+        {{hash=4cecc2ff33f22b9156028c205bf412e4}{%
+           family={Cresswell},
+           family_i={C\bibinitperiod},
+           given={RG},
+           given_i={R\bibinitperiod}}}%
+        {{hash=3e6ba131602ce5cde35c2526886d8407}{%
+           family={Di\bibnamedelima Tada},
+           family_i={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={ML},
+           given_i={M\bibinitperiod}}}%
+        {{hash=0571edb00ef3e86630f6b3f3ce5d33cb}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Kexin},
+           given_i={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4530091bb439032318cbb3fe6b6a7004}
+      \strng{fullhash}{9b719593a659aca4be1418102e6726dd}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Inorganic Biochemistry}
+      \field{number}{3}
+      \field{title}{Kinetics of uptake and elimination of silicic acid by a human subject: A novel application of 32 Si and accelerator mass spectrometry}
+      \field{volume}{69}
+      \field{year}{1998}
+      \field{pages}{177\bibrangedash 180}
+      \range{pages}{4}
+    \endentry
+    \entry{stober1968}{article}{}
+      \name{author}{3}{}{%
+        {{hash=eed3e53c5ab485ef0a3d5df86e9cbeb9}{%
+           family={St\"{o}ber},
+           family_i={S\bibinitperiod},
+           given={Werner},
+           given_i={W\bibinitperiod}}}%
+        {{hash=d849850d317520d7ddd87accafc8022d}{%
+           family={Fink},
+           family_i={F\bibinitperiod},
+           given={Arthur},
+           given_i={A\bibinitperiod}}}%
+        {{hash=965f3b8fe263fc1df77c561018946b20}{%
+           family={Bohn},
+           family_i={B\bibinitperiod},
+           given={Ernst},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{565b1152c466915379252573f7033366}
+      \strng{fullhash}{d6ca3b59827c9ce7d1dcd4d02772b21c}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of colloid and interface science}
+      \field{number}{1}
+      \field{title}{Controlled growth of monodisperse silica spheres in the micron size range}
+      \field{volume}{26}
+      \field{year}{1968}
+      \field{pages}{62\bibrangedash 69}
+      \range{pages}{8}
+    \endentry
+    \entry{yang2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5a1cb92dc789e714fb5aaf67809119a6}{%
+           family={Yang},
+           family_i={Y\bibinitperiod},
+           given={Jian},
+           given_i={J\bibinitperiod}}}%
+        {{hash=8651f592a35adef649b5a278ae9b0161}{%
+           family={Lind},
+           family_i={L\bibinitperiod},
+           given={Johan\bibnamedelima U},
+           given_i={J\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=4ceaec018cfdb439462b31fcb73272a7}{%
+           family={Trogler},
+           family_i={T\bibinitperiod},
+           given={William\bibnamedelima C},
+           given_i={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{b5a5ada9969d439d28ba0edfd5844999}
+      \strng{fullhash}{e9de8258291a6e8025a3ae75a9bb57e3}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemistry of Materials}
+      \field{number}{9}
+      \field{title}{Synthesis of hollow silica and titania nanospheres}
+      \field{volume}{20}
+      \field{year}{2008}
+      \field{pages}{2875\bibrangedash 2877}
+      \range{pages}{3}
+    \endentry
+    \entry{pohaku2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=41bf6692ac170a4cb08141f7ab42045c}{%
+           family={Pohaku\bibnamedelima Mitchell},
+           family_i={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Kristina\bibnamedelima K},
+           given_i={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c878bfb7a423d02e599ddc35a61dd7fd}{%
+           family={Liberman},
+           family_i={L\bibinitperiod},
+           given={Alexander},
+           given_i={A\bibinitperiod}}}%
+        {{hash=f023b39e4381bfb6b925d755c83d9f8b}{%
+           family={Kummel},
+           family_i={K\bibinitperiod},
+           given={Andrew\bibnamedelima C},
+           given_i={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4ceaec018cfdb439462b31fcb73272a7}{%
+           family={Trogler},
+           family_i={T\bibinitperiod},
+           given={William\bibnamedelima C},
+           given_i={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{3b17787344277deecc7f9e4044e55587}
+      \strng{fullhash}{db78053c212cb7369ab3522cbcf0076a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{34}
+      \field{title}{Iron (III)-doped, silica nanoshells: a biodegradable form of silica}
+      \field{volume}{134}
+      \field{year}{2012}
+      \field{pages}{13997\bibrangedash 14003}
+      \range{pages}{7}
+    \endentry
+    \entry{kresge1992}{article}{}
+      \name{author}{5}{}{%
+        {{hash=7b28e325a2c37c18525dcce3907e2c7e}{%
+           family={Kresge},
+           family_i={K\bibinitperiod},
+           given={CT},
+           given_i={C\bibinitperiod}}}%
+        {{hash=a49c191c76aa49c60f6516b9e1339734}{%
+           family={Leonowicz},
+           family_i={L\bibinitperiod},
+           given={ME},
+           given_i={M\bibinitperiod}}}%
+        {{hash=242c47cd9ccd59642c7a59f8eb389a4a}{%
+           family={Roth},
+           family_i={R\bibinitperiod},
+           given={W\bibnamedelima Jelal},
+           given_i={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e5ea953c6cbbc677897dd51ec6edba73}{%
+           family={Vartuli},
+           family_i={V\bibinitperiod},
+           given={JC},
+           given_i={J\bibinitperiod}}}%
+        {{hash=60a7e2e3949f7c7ccb8d150c795327d3}{%
+           family={Beck},
+           family_i={B\bibinitperiod},
+           given={JS},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{625cd52c99c410ee520733bf5e85af55}
+      \strng{fullhash}{aa93f2b4d5c91724cd8edc073bfdb5d1}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{nature}
+      \field{number}{6397}
+      \field{title}{Ordered mesoporous molecular sieves synthesized by a liquid-crystal template mechanism}
+      \field{volume}{359}
+      \field{year}{1992}
+      \field{pages}{710}
+      \range{pages}{1}
+    \endentry
+    \entry{tomczak2005}{article}{}
+      \name{author}{9}{}{%
+        {{hash=a45470e98f680ef2dd093128f1f8ce40}{%
+           family={Tomczak},
+           family_i={T\bibinitperiod},
+           given={Melanie\bibnamedelima M},
+           given_i={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5366af1f2f0563c6447d635cef20dd3d}{%
+           family={Glawe},
+           family_i={G\bibinitperiod},
+           given={Diana\bibnamedelima D},
+           given_i={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=16c33c823b43b0148993963d1078170b}{%
+           family={Drummy},
+           family_i={D\bibinitperiod},
+           given={Lawrence\bibnamedelima F},
+           given_i={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=717fd31e41c59e8bff6388299076ca0b}{%
+           family={Lawrence},
+           family_i={L\bibinitperiod},
+           given={Charles\bibnamedelima G},
+           given_i={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=507e40d5efacd3bb583fe7828ae904d8}{%
+           family={Stone},
+           family_i={S\bibinitperiod},
+           given={Morley\bibnamedelima O},
+           given_i={M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=3b560d3c30c3c7d980631e23c46a4b52}{%
+           family={Perry},
+           family_i={P\bibinitperiod},
+           given={Carole\bibnamedelima C},
+           given_i={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=6a30f9cd2bc895ac7c45a891d66cf54f}{%
+           family={Pochan},
+           family_i={P\bibinitperiod},
+           given={Darrin\bibnamedelima J},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fef9699412008515e6b62e4d7ec5b50b}{%
+           family={Deming},
+           family_i={D\bibinitperiod},
+           given={Timothy\bibnamedelima J},
+           given_i={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7899235c900ac4b0010901004780bbc4}{%
+           family={Naik},
+           family_i={N\bibinitperiod},
+           given={Rajesh\bibnamedelima R},
+           given_i={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{19dfb60982d430578584df0e69af8296}
+      \strng{fullhash}{193ccd06295b45a0dd781988aeffca8f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{36}
+      \field{title}{Polypeptide-templated synthesis of hexagonal silica platelets}
+      \field{volume}{127}
+      \field{year}{2005}
+      \field{pages}{12577\bibrangedash 12582}
+      \range{pages}{6}
+    \endentry
+    \entry{bellomo2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d486b7886001672f256741d163eca9ec}{%
+           family={Bellomo},
+           family_i={B\bibinitperiod},
+           given={Enrico\bibnamedelima G},
+           given_i={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=fef9699412008515e6b62e4d7ec5b50b}{%
+           family={Deming},
+           family_i={D\bibinitperiod},
+           given={Timothy\bibnamedelima J},
+           given_i={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{774373536a473419decd5c801b96fb51}
+      \strng{fullhash}{774373536a473419decd5c801b96fb51}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{7}
+      \field{title}{Monoliths of aligned silica-polypeptide hexagonal platelets}
+      \field{volume}{128}
+      \field{year}{2006}
+      \field{pages}{2276\bibrangedash 2279}
+      \range{pages}{4}
+    \endentry
+    \entry{liu2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=019767a8ddcfb1164ed6b7e3278a91f8}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Yiding},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=ca38cf5a9bedb195fec79bf49326a3f1}{%
+           family={Goebl},
+           family_i={G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=e4be66ce27766a67a7c6697460a4254f}{%
+           family={Yin},
+           family_i={Y\bibinitperiod},
+           given={Yadong},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{5144d9c0f07f9f759427fab9d5255ae2}
+      \strng{fullhash}{3d97ac2c7110f32225520487a63ad5c3}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Society Reviews}
+      \field{number}{7}
+      \field{title}{Templated synthesis of nanostructured materials}
+      \field{volume}{42}
+      \field{year}{2013}
+      \field{pages}{2610\bibrangedash 2653}
+      \range{pages}{44}
+    \endentry
+    \entry{colfen2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=57dcf3b88594b096e1bd3d67ab2148b5}{%
+           family={C\"{o}lfen},
+           family_i={C\bibinitperiod},
+           given={Helmut},
+           given_i={H\bibinitperiod}}}%
+        {{hash=305e6f4fc695aa13ed2c3c01bee25002}{%
+           family={Page},
+           family_i={P\bibinitperiod},
+           given={Miles\bibnamedelima G},
+           given_i={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=177c6beeb792fd09766b6db84ca6e8f4}{%
+           family={Dubois},
+           family_i={D\bibinitperiod},
+           given={Monique},
+           given_i={M\bibinitperiod}}}%
+        {{hash=6cf23609a548ea119930f5857a9632d7}{%
+           family={Zemb},
+           family_i={Z\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6677ac8daf82417529634f81401cd16f}
+      \strng{fullhash}{6fca9954d5756c8b1f975475e891c746}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Colloids and Surfaces A: Physicochemical and Engineering Aspects}
+      \field{number}{1}
+      \field{title}{Mineralization in complex fluids}
+      \field{volume}{303}
+      \field{year}{2007}
+      \field{pages}{46\bibrangedash 54}
+      \range{pages}{9}
+    \endentry
+    \entry{israelachvili1976}{article}{}
+      \name{author}{3}{}{%
+        {{hash=be4b432509eedd48fe8589328ef4a6af}{%
+           family={Israelachvili},
+           family_i={I\bibinitperiod},
+           given={Jacob\bibnamedelima N},
+           given_i={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=a4099d4385e224515080a1a2572afcd8}{%
+           family={Mitchell},
+           family_i={M\bibinitperiod},
+           given={D\bibnamedelima John},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=350a208cf9f5c0dd38ee79956dcf5ab9}{%
+           family={Ninham},
+           family_i={N\bibinitperiod},
+           given={Barry\bibnamedelima W},
+           given_i={B\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{8e5f5f4b0dd0258d415155564a0e950d}
+      \strng{fullhash}{9648bec7469943707d7189b00fbf4e2f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Chemical Society, Faraday Transactions 2: Molecular and Chemical Physics}
+      \field{title}{Theory of self-assembly of hydrocarbon amphiphiles into micelles and bilayers}
+      \field{volume}{72}
+      \field{year}{1976}
+      \field{pages}{1525\bibrangedash 1568}
+      \range{pages}{44}
+    \endentry
+    \entry{kang1993}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c351db73303c1684fd084164dcadcf84}{%
+           family={Kang},
+           family_i={K\bibinitperiod},
+           given={Changjiang},
+           given_i={C\bibinitperiod}}}%
+        {{hash=31ee1db9c67b2817b746426d40e4c754}{%
+           family={Khan},
+           family_i={K\bibinitperiod},
+           given={Ali},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6c7dfbeea91ff7bef20caf7684dc8991}
+      \strng{fullhash}{6c7dfbeea91ff7bef20caf7684dc8991}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of colloid and interface science}
+      \field{number}{1}
+      \field{title}{Self-assembly in systems of didodecyldimethylammonium surfactants: Binary and ternary phase equilibria and phase structures with sulphate, hydroxide, acetate, and chloride counterions}
+      \field{volume}{156}
+      \field{year}{1993}
+      \field{pages}{218\bibrangedash 228}
+      \range{pages}{11}
+    \endentry
+    \entry{thalberg1991}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e75ca177f41e40aac2c0012fd54fce3f}{%
+           family={Thalberg},
+           family_i={T\bibinitperiod},
+           given={Kyrre},
+           given_i={K\bibinitperiod}}}%
+        {{hash=3faf6f6f50627c378355541de2a8d1b6}{%
+           family={Lindman},
+           family_i={L\bibinitperiod},
+           given={Bjoern},
+           given_i={B\bibinitperiod}}}%
+        {{hash=04e86f38a2c08ef48d672d8fd3c6546f}{%
+           family={Karlstroem},
+           family_i={K\bibinitperiod},
+           given={Gunnar},
+           given_i={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{e51ae2fbc82248eed6e679138b2fead1}
+      \strng{fullhash}{2bd39574b93ed9d924a74701f62cd847}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry}
+      \field{number}{15}
+      \field{title}{Phase behavior of a system of cationic surfactant and anionic polyelectrolyte: the effect of salt}
+      \field{volume}{95}
+      \field{year}{1991}
+      \field{pages}{6004\bibrangedash 6011}
+      \range{pages}{8}
+    \endentry
+    \entry{warr1988}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3fdab40b9739cdff886d4f2192bd43f1}{%
+           family={Warr},
+           family_i={W\bibinitperiod},
+           given={Gregory\bibnamedelima G},
+           given_i={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d67ca7b804f345cb60dbbafabf91c8bd}{%
+           family={Sen},
+           family_i={S\bibinitperiod},
+           given={Radha},
+           given_i={R\bibinitperiod}}}%
+        {{hash=a52c50eefd2d64bac57d7118dc913b96}{%
+           family={Evans},
+           family_i={E\bibinitperiod},
+           given={D\bibnamedelima Fennell},
+           given_i={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=3802d86b664e6f5cae9fea44e07d1c43}{%
+           family={Trend},
+           family_i={T\bibinitperiod},
+           given={John\bibnamedelima E},
+           given_i={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{fb8badc5401f261b7508a133a16f6a22}
+      \strng{fullhash}{775d8572dd89663f998ea77513fb9296}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry}
+      \field{number}{3}
+      \field{title}{Microemulsion formation and phase behavior of dialkydimethylammonium bromide surfactants}
+      \field{volume}{92}
+      \field{year}{1988}
+      \field{pages}{774\bibrangedash 783}
+      \range{pages}{10}
+    \endentry
+    \entry{liu2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f896ed7f8d31c582018b8c49b0a951d0}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Connie\bibnamedelima K},
+           given_i={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3fdab40b9739cdff886d4f2192bd43f1}{%
+           family={Warr},
+           family_i={W\bibinitperiod},
+           given={Gregory\bibnamedelima G},
+           given_i={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{329a7cdd9802ff5a7fa78d7ff1b69715}
+      \strng{fullhash}{329a7cdd9802ff5a7fa78d7ff1b69715}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Langmuir}
+      \field{number}{10}
+      \field{title}{Self-Assembly of Didodecyldimethylammonium Surfactants Modulated by Multivalent, Hydrolyzable Counterions}
+      \field{volume}{31}
+      \field{year}{2014}
+      \field{pages}{2936\bibrangedash 2945}
+      \range{pages}{10}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
