@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.8.17)  8 JAN 2018 00:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.8.17)  9 JAN 2018 03:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -961,18 +961,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Underfull \hbox (badness 2103) in paragraph at lines 70--71
-[]\OT1/ptm/m/n/12 Hierarchical meso-porous struc-tures have been
- []
-
-
-Underfull \hbox (badness 1147) in paragraph at lines 70--71
-\OT1/ptm/m/n/12 re-ported by tem-plat-ing on soft tem-plates of or-
- []
-
-
 Underfull \hbox (badness 1360) in paragraph at lines 70--71
-\OT1/ptm/m/n/12 One such ma-te-rial is MCM-41 [18], which in-
+\OT1/ptm/m/n/12 One such ma-te-rial is MCM-41 [19], which in-
  []
 
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 72
@@ -1003,8 +993,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
 
-Underfull \hbox (badness 1210) in paragraph at lines 72--73
-\OT1/ptm/m/n/12 ior of double-tailed di-do-de-cyldimethy-lam-mo-nium
+Underfull \hbox (badness 1248) in paragraph at lines 72--73
+\OT1/ptm/m/n/12 sur-fac-tants have been ex-ten-sively stud-ied in the
  []
 
 <structure.png, id=9, 217.2918pt x 81.906pt>
@@ -1018,13 +1008,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no „ in font ptmr7t!
-Missing character: There is no ¦ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no ‰ in font ptmr7t!
 Missing character: There is no ˆ in font ptmr7t!
@@ -1040,10 +1023,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2 <./structure.png>]
-Missing character: There is no Â in font ptmr7t!
-Missing character: There is no ° in font ptmr7t!
- <surfscheme.png, id=15, 304.9794pt x 164.2938pt>
+[2 <./structure.png>] <surfscheme.png, id=17, 304.9794pt x 164.2938pt>
 File: surfscheme.png Graphic file (type png)
 
 <use surfscheme.png>
@@ -1054,7 +1034,7 @@ Overfull \hbox (12.62564pt too wide) in paragraph at lines 98--99
  [][] 
  []
 
-<titration.png, id=16, 235.6002pt x 180.1932pt>
+<titration.png, id=18, 235.6002pt x 180.1932pt>
 File: titration.png Graphic file (type png)
  <use titration.png>
 Package pdftex.def Info: titration.png used on input line 105.
@@ -1067,48 +1047,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [3 <./surfscheme.png> <./titration.png>]
-<phosfraction.png, id=22, 938.20914pt x 599.98553pt>
-File: phosfraction.png Graphic file (type png)
- <use phosfraction.png>
-Package pdftex.def Info: phosfraction.png used on input line 115.
-(pdftex.def)             Requested size: 252.49745pt x 161.46727pt.
-
-Underfull \vbox (badness 1072) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1057) in paragraph at lines 121--122
-\OT1/ptm/b/n/12 truc-tures.[] \OT1/ptm/m/n/12 Sil-ica tem-plated by the DDAH2PO
-4
+Underfull \hbox (badness 1509) in paragraph at lines 116--117
+\OT1/ptm/b/n/12 truc-tures.[] \OT1/ptm/m/n/12 Sil-ica tem-plated by the $[][][]
+[][][]$
  []
 
-<silicascheme.png, id=23, 358.4592pt x 185.493pt>
-File: silicascheme.png Graphic file (type png)
- <use silicascheme.png>
-Package pdftex.def Info: silicascheme.png used on input line 125.
-(pdftex.def)             Requested size: 265.1231pt x 137.2004pt.
-
-Overfull \hbox (12.62564pt too wide) in paragraph at lines 125--126
- [][] 
- []
-
-<mechanism.png, id=24, 310.761pt x 43.362pt>
+<mechanism.png, id=25, 310.761pt x 43.362pt>
 File: mechanism.png Graphic file (type png)
  <use mechanism.png>
-Package pdftex.def Info: mechanism.png used on input line 132.
+Package pdftex.def Info: mechanism.png used on input line 119.
 (pdftex.def)             Requested size: 252.49745pt x 35.23283pt.
 
-<0deg.jpg, id=25, 2449.15pt x 864.22874pt>
+<0deg.jpg, id=26, 2449.15pt x 864.22874pt>
 File: 0deg.jpg Graphic file (type jpg)
  <use 0deg.jpg>
-Package pdftex.def Info: 0deg.jpg used on input line 137.
+Package pdftex.def Info: 0deg.jpg used on input line 124.
 (pdftex.def)             Requested size: 514.9949pt x 181.71756pt.
-Missing character: There is no Â in font ptmr7t!
-Missing character: There is no ° in font ptmr7t!
-Missing character: There is no Â in font ptmr7t!
-Missing character: There is no ° in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
+
+<silicascheme.png, id=27, 358.4592pt x 185.493pt>
+File: silicascheme.png Graphic file (type png)
+ <use silicascheme.png>
+Package pdftex.def Info: silicascheme.png used on input line 131.
+(pdftex.def)             Requested size: 265.1231pt x 137.2004pt.
+
+Overfull \hbox (12.62564pt too wide) in paragraph at lines 131--132
+ [][] 
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1116,57 +1083,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4 <./phosfraction.png> <./silicascheme.png> <./mechanism.png>]
-Missing character: There is no Â in font ptmb7t!
-Missing character: There is no ° in font ptmb7t!
-Missing character: There is no Â in font ptmr7t!
-Missing character: There is no ° in font ptmr7t!
-Missing character: There is no Â in font ptmr7t!
-Missing character: There is no ° in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
-
-<lowcon.jpg, id=32, 2449.15pt x 1428.33624pt>
+[4 <./mechanism.png> <./silicascheme.png>]
+<lowcon.jpg, id=33, 2449.15pt x 1428.33624pt>
 File: lowcon.jpg Graphic file (type jpg)
  <use lowcon.jpg>
-Package pdftex.def Info: lowcon.jpg used on input line 154.
+Package pdftex.def Info: lowcon.jpg used on input line 145.
 (pdftex.def)             Requested size: 514.9949pt x 300.32997pt.
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<highcon.jpg, id=33, 2449.15pt x 1020.81375pt>
-File: highcon.jpg Graphic file (type jpg)
- <use highcon.jpg>
-Package pdftex.def Info: highcon.jpg used on input line 172.
-(pdftex.def)             Requested size: 514.9949pt x 214.64201pt.
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 1024) in paragraph at lines 183--184
+Underfull \hbox (badness 1024) in paragraph at lines 161--162
 \OT1/ptm/m/n/12 could be re-trieved from the su-per-natant and re-
  []
+
+<highcon.jpg, id=34, 2449.15pt x 1020.81375pt>
+File: highcon.jpg Graphic file (type jpg)
+ <use highcon.jpg>
+Package pdftex.def Info: highcon.jpg used on input line 169.
+(pdftex.def)             Requested size: 514.9949pt x 214.64201pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1187,15 +1126,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6 <./lowcon.jpg>]
-Underfull \hbox (badness 3333) in paragraph at lines 193--194
+[6 <./lowcon.jpg> <./highcon.jpg>]
+Underfull \hbox (badness 3333) in paragraph at lines 186--187
 \OT1/ptm/m/n/12 In sum-mary, we have shown that the sol-gel
  []
 
-<trends.jpg, id=40, 2449.15pt x 1836.8625pt>
+<trends.jpg, id=41, 2449.15pt x 1836.8625pt>
 File: trends.jpg Graphic file (type jpg)
  <use trends.jpg>
-Package pdftex.def Info: trends.jpg used on input line 197.
+Package pdftex.def Info: trends.jpg used on input line 190.
 (pdftex.def)             Requested size: 252.49745pt x 189.3587pt.
 
 
@@ -1204,7 +1143,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7 <./highcon.jpg> <./trends.jpg>]
+[7 <./trends.jpg>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1220,9 +1159,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9
-
-]
+[9]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1236,32 +1173,30 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11]
+[11] <phosfraction.png, id=62, 938.20914pt x 599.98553pt>
+File: phosfraction.png Graphic file (type png)
+
+<use phosfraction.png>
+Package pdftex.def Info: phosfraction.png used on input line 297.
+(pdftex.def)             Requested size: 514.9949pt x 329.34305pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12] (./paper.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                paper
-(biblatex)                and rerun LaTeX afterwards.
-
+[12 <./phosfraction.png>] (./paper.aux)
 Package logreq Info: Writing requests to 'paper.run.xml'.
 \openout1 = `paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19885 strings out of 493014
- 368024 string characters out of 6133351
- 797260 words of memory out of 5000000
+ 19889 strings out of 493014
+ 368046 string characters out of 6133351
+ 797278 words of memory out of 5000000
  23191 multiletter control sequences out of 15000+600000
- 44307 words of font info for 101 fonts, out of 8000000 for 9000
+ 46166 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,17n,65p,10383b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -1270,14 +1205,15 @@ xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
 live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2016/texm
-f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/
-utmri8a.pfb>
-Output written on paper.pdf (12 pages, 3385992 bytes).
+f-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/ur
+w/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/u
+tmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on paper.pdf (12 pages, 3387717 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 101 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

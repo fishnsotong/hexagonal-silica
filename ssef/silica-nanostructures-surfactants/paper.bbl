@@ -725,6 +725,46 @@
       \field{pages}{6004\bibrangedash 6011}
       \range{pages}{8}
     \endentry
+    \entry{colfen2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=57dcf3b88594b096e1bd3d67ab2148b5}{%
+           family={C\"{o}lfen},
+           family_i={C\bibinitperiod},
+           given={Helmut},
+           given_i={H\bibinitperiod}}}%
+        {{hash=305e6f4fc695aa13ed2c3c01bee25002}{%
+           family={Page},
+           family_i={P\bibinitperiod},
+           given={Miles\bibnamedelima G},
+           given_i={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=177c6beeb792fd09766b6db84ca6e8f4}{%
+           family={Dubois},
+           family_i={D\bibinitperiod},
+           given={Monique},
+           given_i={M\bibinitperiod}}}%
+        {{hash=6cf23609a548ea119930f5857a9632d7}{%
+           family={Zemb},
+           family_i={Z\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6677ac8daf82417529634f81401cd16f}
+      \strng{fullhash}{6fca9954d5756c8b1f975475e891c746}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Colloids and Surfaces A: Physicochemical and Engineering Aspects}
+      \field{number}{1}
+      \field{title}{Mineralization in complex fluids}
+      \field{volume}{303}
+      \field{year}{2007}
+      \field{pages}{46\bibrangedash 54}
+      \range{pages}{9}
+    \endentry
     \entry{kresge1992}{article}{}
       \name{author}{5}{}{%
         {{hash=7b28e325a2c37c18525dcce3907e2c7e}{%
@@ -904,46 +944,6 @@
       \field{pages}{1299}
       \range{pages}{1}
     \endentry
-    \entry{colfen2007}{article}{}
-      \name{author}{4}{}{%
-        {{hash=57dcf3b88594b096e1bd3d67ab2148b5}{%
-           family={C\"{o}lfen},
-           family_i={C\bibinitperiod},
-           given={Helmut},
-           given_i={H\bibinitperiod}}}%
-        {{hash=305e6f4fc695aa13ed2c3c01bee25002}{%
-           family={Page},
-           family_i={P\bibinitperiod},
-           given={Miles\bibnamedelima G},
-           given_i={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=177c6beeb792fd09766b6db84ca6e8f4}{%
-           family={Dubois},
-           family_i={D\bibinitperiod},
-           given={Monique},
-           given_i={M\bibinitperiod}}}%
-        {{hash=6cf23609a548ea119930f5857a9632d7}{%
-           family={Zemb},
-           family_i={Z\bibinitperiod},
-           given={Thomas},
-           given_i={T\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{6677ac8daf82417529634f81401cd16f}
-      \strng{fullhash}{6fca9954d5756c8b1f975475e891c746}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Colloids and Surfaces A: Physicochemical and Engineering Aspects}
-      \field{number}{1}
-      \field{title}{Mineralization in complex fluids}
-      \field{volume}{303}
-      \field{year}{2007}
-      \field{pages}{46\bibrangedash 54}
-      \range{pages}{9}
-    \endentry
     \entry{yong2017}{misc}{}
       \name{author}{3}{}{%
         {{hash=16945af3306c6466033ab6eccf249a44}{%
@@ -951,13 +951,13 @@
            family_i={Y\bibinitperiod},
            given={G.},
            given_i={G\bibinitperiod}}}%
-        {{hash=5ecd5ad920928c43681ac6fb1a95ea9d}{%
-           family={XU},
+        {{hash=ba77f48973a656795eeba7787647bdd9}{%
+           family={Xu},
            family_i={X\bibinitperiod},
            given={W.},
            given_i={W\bibinitperiod}}}%
-        {{hash=6e3b5dbdb6bcd58fc211db923f198eb9}{%
-           family={LIU},
+        {{hash=efa3470c9ec745376e8e3eced02c4e1c}{%
+           family={Liu},
            family_i={L\bibinitperiod},
            given={C.K.M.},
            given_i={C\bibinitperiod}}}%
@@ -966,7 +966,7 @@
         {Google Patents}%
       }
       \strng{namehash}{36c9d3bf76699ef799b11bf5b38e6ac1}
-      \strng{fullhash}{a806b052d1f23242478e927617438e45}
+      \strng{fullhash}{e1edf7675646231a3060206c1eebaf9b}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labelnamesource}{author}
