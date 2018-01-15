@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.8.17)  9 JAN 2018 03:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.8.17)  9 JAN 2018 22:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -950,7 +950,7 @@ Underfull \vbox (badness 1107) has occurred while \output is active []
 Underfull \vbox (badness 1490) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 69.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 70.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -993,26 +993,22 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
 
-Underfull \hbox (badness 1248) in paragraph at lines 72--73
-\OT1/ptm/m/n/12 sur-fac-tants have been ex-ten-sively stud-ied in the
- []
-
-<structure.png, id=9, 217.2918pt x 81.906pt>
+<structure.png, id=10, 208.1376pt x 65.5248pt>
 File: structure.png Graphic file (type png)
  <use structure.png>
-Package pdftex.def Info: structure.png used on input line 75.
-(pdftex.def)             Requested size: 252.49745pt x 95.17973pt.
+Package pdftex.def Info: structure.png used on input line 76.
+(pdftex.def)             Requested size: 227.24615pt x 71.54457pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no ‰ in font ptmr7t!
 Missing character: There is no ˆ in font ptmr7t!
 
-Underfull \hbox (badness 2469) in paragraph at lines 84--85
+Underfull \hbox (badness 2469) in paragraph at lines 85--86
 [] []\OT1/ptm/b/n/12 2.2 Prepa-ra-tion of start-ing ma-te-ri-als.[] \OT1/ptm/m/
 n/12 Di-lute
  []
@@ -1027,17 +1023,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: surfscheme.png Graphic file (type png)
 
 <use surfscheme.png>
-Package pdftex.def Info: surfscheme.png used on input line 98.
+Package pdftex.def Info: surfscheme.png used on input line 99.
 (pdftex.def)             Requested size: 265.1231pt x 142.82663pt.
 
-Overfull \hbox (12.62564pt too wide) in paragraph at lines 98--99
+Overfull \hbox (12.62564pt too wide) in paragraph at lines 99--100
  [][] 
  []
 
 <titration.png, id=18, 235.6002pt x 180.1932pt>
 File: titration.png Graphic file (type png)
  <use titration.png>
-Package pdftex.def Info: titration.png used on input line 105.
+Package pdftex.def Info: titration.png used on input line 106.
 (pdftex.def)             Requested size: 252.49745pt x 193.121pt.
 
 
@@ -1047,7 +1043,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [3 <./surfscheme.png> <./titration.png>]
-Underfull \hbox (badness 1509) in paragraph at lines 116--117
+Underfull \hbox (badness 1509) in paragraph at lines 117--118
 \OT1/ptm/b/n/12 truc-tures.[] \OT1/ptm/m/n/12 Sil-ica tem-plated by the $[][][]
 [][][]$
  []
@@ -1055,13 +1051,13 @@ Underfull \hbox (badness 1509) in paragraph at lines 116--117
 <mechanism.png, id=25, 310.761pt x 43.362pt>
 File: mechanism.png Graphic file (type png)
  <use mechanism.png>
-Package pdftex.def Info: mechanism.png used on input line 119.
+Package pdftex.def Info: mechanism.png used on input line 120.
 (pdftex.def)             Requested size: 252.49745pt x 35.23283pt.
 
 <0deg.jpg, id=26, 2449.15pt x 864.22874pt>
 File: 0deg.jpg Graphic file (type jpg)
  <use 0deg.jpg>
-Package pdftex.def Info: 0deg.jpg used on input line 124.
+Package pdftex.def Info: 0deg.jpg used on input line 125.
 (pdftex.def)             Requested size: 514.9949pt x 181.71756pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
@@ -1070,10 +1066,10 @@ Missing character: There is no ™ in font ptmr7t!
 <silicascheme.png, id=27, 358.4592pt x 185.493pt>
 File: silicascheme.png Graphic file (type png)
  <use silicascheme.png>
-Package pdftex.def Info: silicascheme.png used on input line 131.
+Package pdftex.def Info: silicascheme.png used on input line 132.
 (pdftex.def)             Requested size: 265.1231pt x 137.2004pt.
 
-Overfull \hbox (12.62564pt too wide) in paragraph at lines 131--132
+Overfull \hbox (12.62564pt too wide) in paragraph at lines 132--133
  [][] 
  []
 
@@ -1087,21 +1083,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 <lowcon.jpg, id=33, 2449.15pt x 1428.33624pt>
 File: lowcon.jpg Graphic file (type jpg)
  <use lowcon.jpg>
-Package pdftex.def Info: lowcon.jpg used on input line 145.
+Package pdftex.def Info: lowcon.jpg used on input line 146.
 (pdftex.def)             Requested size: 514.9949pt x 300.32997pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 161--162
+Underfull \hbox (badness 1024) in paragraph at lines 162--163
 \OT1/ptm/m/n/12 could be re-trieved from the su-per-natant and re-
  []
 
 <highcon.jpg, id=34, 2449.15pt x 1020.81375pt>
 File: highcon.jpg Graphic file (type jpg)
  <use highcon.jpg>
-Package pdftex.def Info: highcon.jpg used on input line 169.
+Package pdftex.def Info: highcon.jpg used on input line 170.
 (pdftex.def)             Requested size: 514.9949pt x 214.64201pt.
 
 
@@ -1127,14 +1123,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [6 <./lowcon.jpg> <./highcon.jpg>]
-Underfull \hbox (badness 3333) in paragraph at lines 186--187
+Underfull \hbox (badness 3333) in paragraph at lines 187--188
 \OT1/ptm/m/n/12 In sum-mary, we have shown that the sol-gel
  []
 
 <trends.jpg, id=41, 2449.15pt x 1836.8625pt>
 File: trends.jpg Graphic file (type jpg)
  <use trends.jpg>
-Package pdftex.def Info: trends.jpg used on input line 190.
+Package pdftex.def Info: trends.jpg used on input line 191.
 (pdftex.def)             Requested size: 252.49745pt x 189.3587pt.
 
 
@@ -1177,7 +1173,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: phosfraction.png Graphic file (type png)
 
 <use phosfraction.png>
-Package pdftex.def Info: phosfraction.png used on input line 297.
+Package pdftex.def Info: phosfraction.png used on input line 298.
 (pdftex.def)             Requested size: 514.9949pt x 329.34305pt.
 
 
@@ -1192,13 +1188,13 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19889 strings out of 493014
- 368046 string characters out of 6133351
- 797278 words of memory out of 5000000
- 23191 multiletter control sequences out of 15000+600000
+ 19893 strings out of 493014
+ 368186 string characters out of 6133351
+ 797346 words of memory out of 5000000
+ 23195 multiletter control sequences out of 15000+600000
  46166 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,17n,65p,10383b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,17n,65p,10383b,1079s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -1210,7 +1206,7 @@ s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/ur
 w/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/u
 tmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on paper.pdf (12 pages, 3387717 bytes).
+Output written on paper.pdf (12 pages, 3387886 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream

@@ -1029,6 +1029,31 @@
       \field{pages}{4103\bibrangedash 4113}
       \range{pages}{11}
     \endentry
+    \entry{dolgin2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e10cd0755e1220c93b69ea661d1fa15a}{%
+           family={Dolgin},
+           family_i={D\bibinitperiod},
+           given={Elie},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Research}%
+      }
+      \strng{namehash}{e10cd0755e1220c93b69ea661d1fa15a}
+      \strng{fullhash}{e10cd0755e1220c93b69ea661d1fa15a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7673}
+      \field{title}{Bioengineering: Doing without donors}
+      \field{volume}{549}
+      \field{year}{2017}
+      \field{pages}{S12\bibrangedash S15}
+      \range{pages}{-1}
+    \endentry
     \entry{sakurai2015}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -1197,6 +1222,56 @@
       \field{title}{Silica nanoparticles effects on blood coagulation proteins and platelets}
       \field{volume}{2016}
       \field{year}{2016}
+    \endentry
+    \entry{herd2013}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a2a9a7315486e1d1ec18fe8c36878142}{%
+           family={Herd},
+           family_i={H\bibinitperiod},
+           given={Heather},
+           given_i={H\bibinitperiod}}}%
+        {{hash=30c75e42ac4c3f83210f1b0a07d438fe}{%
+           family={Daum},
+           family_i={D\bibinitperiod},
+           given={Nicole},
+           given_i={N\bibinitperiod}}}%
+        {{hash=cd4e34e0a662be8ecf7cb45229fec07a}{%
+           family={Jones},
+           family_i={J\bibinitperiod},
+           given={Arwyn\bibnamedelima T},
+           given_i={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=cb80c9c8b6be252a42425a31007aef25}{%
+           family={Huwer},
+           family_i={H\bibinitperiod},
+           given={Hanno},
+           given_i={H\bibinitperiod}}}%
+        {{hash=3ff51469c2e1e588b7991ff3162e34f9}{%
+           family={Ghandehari},
+           family_i={G\bibinitperiod},
+           given={Hamidreza},
+           given_i={H\bibinitperiod}}}%
+        {{hash=72a0eb97ef1f8638b2bcf3bf2eb4418b}{%
+           family={Lehr},
+           family_i={L\bibinitperiod},
+           given={Claus-Michael},
+           given_i={C\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{b344ef00670ddd9b87506d32acabc5c8}
+      \strng{fullhash}{bc8820bd5e3c1d325a5da022a3012947}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACS nano}
+      \field{number}{3}
+      \field{title}{Nanoparticle geometry and surface orientation influence mode of cellular uptake}
+      \field{volume}{7}
+      \field{year}{2013}
+      \field{pages}{1961\bibrangedash 1973}
+      \range{pages}{13}
     \endentry
   \endsortlist
 \endrefsection

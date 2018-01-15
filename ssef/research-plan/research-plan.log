@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.8.17)  8 JAN 2018 01:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.8.17)  9 JAN 2018 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -861,10 +861,10 @@ Package logreq Info: Writing requests to 'research-plan.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17875 strings out of 493014
- 334816 string characters out of 6133351
- 740203 words of memory out of 5000000
- 21248 multiletter control sequences out of 15000+600000
+ 17877 strings out of 493014
+ 334888 string characters out of 6133351
+ 741239 words of memory out of 5000000
+ 21250 multiletter control sequences out of 15000+600000
  33869 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,13n,44p,10391b,928s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -872,7 +872,7 @@ Here is how much of TeX's memory you used:
 exlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
 6/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on research-plan.pdf (4 pages, 52614 bytes).
+Output written on research-plan.pdf (4 pages, 52952 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream

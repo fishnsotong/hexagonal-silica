@@ -2108,9 +2108,11 @@
     <bcf:citekey order="27">israelachvili1976</bcf:citekey>
     <bcf:citekey order="28">liu2014</bcf:citekey>
     <bcf:citekey order="29">thalberg1991</bcf:citekey>
-    <bcf:citekey order="30">sakurai2015</bcf:citekey>
-    <bcf:citekey order="30">kita2011</bcf:citekey>
-    <bcf:citekey order="31">gryshchuk2016</bcf:citekey>
+    <bcf:citekey order="30">dolgin2017</bcf:citekey>
+    <bcf:citekey order="31">sakurai2015</bcf:citekey>
+    <bcf:citekey order="31">kita2011</bcf:citekey>
+    <bcf:citekey order="32">gryshchuk2016</bcf:citekey>
+    <bcf:citekey order="33">herd2013</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

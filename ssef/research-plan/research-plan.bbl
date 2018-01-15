@@ -663,6 +663,31 @@
       \field{pages}{2936\bibrangedash 2945}
       \range{pages}{10}
     \endentry
+    \entry{dolgin2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e10cd0755e1220c93b69ea661d1fa15a}{%
+           family={Dolgin},
+           family_i={D\bibinitperiod},
+           given={Elie},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Research}%
+      }
+      \strng{namehash}{e10cd0755e1220c93b69ea661d1fa15a}
+      \strng{fullhash}{e10cd0755e1220c93b69ea661d1fa15a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7673}
+      \field{title}{Bioengineering: Doing without donors}
+      \field{volume}{549}
+      \field{year}{2017}
+      \field{pages}{S12\bibrangedash S15}
+      \range{pages}{-1}
+    \endentry
   \endsortlist
 \endrefsection
 \endinput

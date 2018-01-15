@@ -1,18 +1,18 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
 [0] Config.pm:346> INFO - Logfile is 'paper.blg'
-[56] biber-darwin:290> INFO - === Tue Jan  9, 2018, 02:06:50
-[85] Biber.pm:351> INFO - Reading 'paper.bcf'
-[189] Biber.pm:776> INFO - Found 27 citekeys in bib section 0
-[201] Biber.pm:3493> INFO - Processing section 0
-[222] Biber.pm:3657> INFO - Looking for bibtex format file 'hexsi.bib' for section 0
-[226] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[229] bibtex.pm:1048> INFO - Found BibTeX data source 'hexsi.bib'
-[307] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[308] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[308] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
-[308] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[328] bbl.pm:526> INFO - Writing 'paper.bbl' with encoding 'ascii'
+[50] biber-darwin:290> INFO - === Tue Jan  9, 2018, 21:17:36
+[74] Biber.pm:351> INFO - Reading 'paper.bcf'
+[191] Biber.pm:776> INFO - Found 29 citekeys in bib section 0
+[204] Biber.pm:3493> INFO - Processing section 0
+[221] Biber.pm:3657> INFO - Looking for bibtex format file 'hexsi.bib' for section 0
+[223] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[227] bibtex.pm:1048> INFO - Found BibTeX data source 'hexsi.bib'
+[306] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[306] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[307] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
+[307] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[327] bbl.pm:526> INFO - Writing 'paper.bbl' with encoding 'ascii'
 [332] Utils.pm:149> WARN - The entry 'stober1968' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
 [336] Utils.pm:149> WARN - The entry 'colfen2007' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[339] bbl.pm:619> INFO - Output to paper.bbl
+[340] bbl.pm:619> INFO - Output to paper.bbl
 [340] Biber.pm:108> INFO - WARNINGS: 2
